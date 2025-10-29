@@ -82,4 +82,3 @@ The notebook will:
 3. Write `submission.csv` under `/kaggle/working/`
 
 No external data. No test target leakage.
-
